@@ -3,8 +3,8 @@
 The goal of this session is for you to have a test site up and running with the Contentsquare, Heap, and Hotjar tags installed.
 
 # Getting Started
-- Fork this repo
-- Name the repo <github_username>.github.io
+- Fork this repository
+- Name the forked repository <github_username>.github.io
 - Make an edit to a file and save it to publish the site
 - Check <github_username>.github.io to make sure you are able to view your site
 
