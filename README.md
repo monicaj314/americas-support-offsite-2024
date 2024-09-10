@@ -26,8 +26,7 @@ Sign up for a [free trial](https://insights.hotjar.com/register)
     - [How to Install the New Hotjar Debugger](https://www.loom.com/share/554fecd8fda442f9b02aa769149eb09e)
     - [What does the Hotjar Debugger Do?](https://contentsquare.atlassian.net/wiki/spaces/SAL/pages/3656624312/Hotjar+Debugger+HJ+Sales)
 ## Contentsquare
-Use the following tag: `https://t.contentsquare.net/uxa/2c5142b15f133.js`
-Data will flow into the `Support Test` project
+Use the following tag: `https://t.contentsquare.net/uxa/2c5142b15f133.js` all data will flow into the `Support Test` project
 ### Docs
   - [How to Install your CS Tracking Code](https://docs.contentsquare.com/en/web/)
   - [Custom HTML](https://docs.contentsquare.com/en/web/#custom-html)
