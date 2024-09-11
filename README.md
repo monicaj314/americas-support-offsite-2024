@@ -4,6 +4,7 @@ The goal of this session is for you to have a test site up and running with the 
 
 # Getting Started
 Complete the following steps before the offsite if you do not already have a GitHub pages test site
+- Create a Github account
 - Fork this repository
 - Name the forked repository `<github_username>.github.io`
 - Make an edit to a file and save it to publish the site
